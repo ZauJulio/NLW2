@@ -1,2 +1,2 @@
-# NLW2
-Next Level Week # 2 web initiation project
+# Proffy
+Your online study platform
